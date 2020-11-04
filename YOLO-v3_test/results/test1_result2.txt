@@ -1,0 +1,4 @@
+The number of all predictions : 10
+All predictions : [62, 62, 62, 62, 56, 56, 62, 73, 73, 73]
+The number of processed predictions : 5
+The number of people : 0

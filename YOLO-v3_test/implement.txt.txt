@@ -1,0 +1,4 @@
+python yolo_opencv.py -i images/test3.jpg -c yolov3.cfg -w yolov3.weights -cl yolov3.txt
+
+python yolo_opencv.py -i images/*.jpeg -c yolov3.cfg -w yolov3.weights -cl yolov3.txt
+cd Desktop/Github
