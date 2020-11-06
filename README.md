@@ -5,10 +5,10 @@
 [[Presentation]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/presentation.pdf)  
 
 ## Architecture
-### CNN
+### CNN | [[Code]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/CNN_for_counting_people/People_counter_with_baseline_CNN.ipynb)  
 - Simple Classifier with a softmax output layer comprising 11 output nodes.  
 
-### YOLO-v3
+### YOLO-v3 | [[Code]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/YOLO-v3_test/yolo_opencv.py)  
 #### Pretrained Model
 - We use the pre-trained YOLO-v3 weights by Ali Farhadi
 
