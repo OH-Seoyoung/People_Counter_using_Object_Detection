@@ -9,7 +9,7 @@
 - Simple Classifier with a softmax output layer comprising 11 output nodes.  
 
 ### YOLO-v3 | [[Code]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/YOLO-v3_test/yolo_opencv.py)  
-#### Pretrained Model
+#### Test with Pretrained Model
 - We use the pre-trained YOLO-v3 weights by Ali Farhadi
 
 ## Dataset  
