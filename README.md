@@ -1,14 +1,15 @@
-# People Counter using Object Detection (20201012 ~ 20201106)
+# People Counter using Object Detection
 - This project is designed to count people in study room images for seat reservation system.
 - This repo is maintained by [최우철](https://github.com/choiwoochul), 오서영, [허지혜](https://github.com/jihyeheo), [이수빈](https://github.com/I-SUBIN)  
+- Oct. 12, 2020 ~ Nov. 6, 2020
 
-[[Presentation]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/presentation.pdf)  
+| [Presentation](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/presentation.pdf) |
 
 ## Architecture
-### CNN | [[Code]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/CNN_for_counting_people/People_counter_with_baseline_CNN.ipynb)  
+### CNN | [Code](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/CNN_for_counting_people/People_counter_with_baseline_CNN.ipynb)  
 - Simple Classifier with a softmax output layer comprising 11 output nodes.  
 
-### YOLO-v3 | [[Code]](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/YOLO-v3_test/yolo_opencv.py)  
+### YOLO-v3 | [Code](https://github.com/OH-Seoyoung/People_Counter_using_Object_Detection/blob/master/YOLO-v3_test/yolo_opencv.py)  
 #### Test with Pretrained Model
 - We use the pre-trained YOLO-v3 weights by Ali Farhadi
 
